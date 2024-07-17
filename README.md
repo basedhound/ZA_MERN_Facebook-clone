@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="" target="_blank">
+    <a href="https://ksocial-fv.netlify.app" target="_blank">
       <img src="public/preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">KPOP Social UI</h3>
