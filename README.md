@@ -22,6 +22,10 @@
 
 - **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
+- **Mantine** is a modern React component library designed to streamline the creation of scalable and accessible UIs. It offers a rich set of customizable components and hooks, empowering developers to build robust applications with efficiency and accessibility in mind.
+
+- **React Unicons** is a versatile icon library for React applications, providing a wide range of high-quality icons that can be easily integrated into projects. It simplifies the process of adding icons to user interfaces, enhancing visual appeal and usability without compromising performance.
+
 
 ## <br /> <a name="quick-start">🚀 Quick Start</a>
 
