@@ -1,71 +1,64 @@
-# Getting Started with Create React App
+<div align="center">
+    <a href="" target="_blank">
+      <img src="public/preview.webp" alt="Project Banner">
+    </a>
+  <h3 align="center">KPOP Social UI</h3>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##  <br /> 📋 <a name="table">Table of Contents</a>
 
-## Available Scripts
+- ✨ [Introduction](#introduction)
+- ⚙️ [Tech Stack](#tech-stack)
+- 📝 [Features](#features)
+- 🚀 [Quick Start](#quick-start)
 
-In the project directory, you can run:
+##  <br /> <a name="introduction">✨ Introduction</a>
 
-### `yarn start`
+**[EN]** User interface design for a social media platform inspired by the vibrant aesthetic of Kpop culture. Built with React, it features cozy, girly color palettes and aesthetics. Leveraging the Mantine library and complemented by Unicons, it aims to deliver an engaging and visually appealing user experience.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**[FR]** Design pour un réseau social inspiré par l'esthétique vibrante de la culture Kpop. Développé avec React, il intègre une palette de couleurs "girly". Utilisant la bibliothèque Mantine et complété par Unicons, l'objectif est de fournir une expérience utilisateur engageante et visuellement attrayante.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-### `yarn test`
+- **React** is a popular JavaScript library for building user interfaces, particularly single-page applications where data changes over time. React's component-based architecture allows developers to create reusable UI components, making development more efficient and the codebase easier to maintain. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## <br /> <a name="quick-start">🚀 Quick Start</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow these steps to set up the project locally on your machine.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br/>**Prerequisites**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Make sure you have the following installed on your machine:
 
-### `yarn eject`
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br/>**Cloning the Repository**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone {git remote URL}
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br/>**Installation**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Let's install the project dependencies, from your terminal, run:
 
-## Learn More
+```bash
+npm install
+# or
+yarn install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br/>**Running the Project**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Installation will take a minute or two, but once that's done, you should be able to run the following command:
 
-### Code Splitting
+```bash
+npm start
+# or
+yarn start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# ZKC_UI_Social-app_Kpop
+Open [`http://localhost:3000`](http://localhost:3000) in your browser to view the project.
